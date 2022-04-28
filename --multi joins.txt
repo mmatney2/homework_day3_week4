@@ -1,0 +1,21 @@
+--multi joins
+
+-- -- I want to know what actors in what film
+
+-- SELECT first_name, last_name, title
+-- from actor
+-- JOIN film_actor
+-- ON actor.actor
+-- JOIN film.film_id = film_actor.film_id
+-- WHERE first_name LIKE 'tom' and 'mira'
+
+-- SELECT CONCAT(first_name, ' ',last_name), title
+-- from actor
+-- JOIN film_actor
+-- ON actor.actor
+-- JOIN film.film_id = film_actor.film_id
+-- WHERE first_name LIKE 'tom' and 'mira'
+
+--first and last names of actors who appear in films in 2006
+--and the count of those films
+SELECT actor.first_name, actor.last_name, 
