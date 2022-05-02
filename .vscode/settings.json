@@ -1,0 +1,67 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://kxhonlig:15_WU52riuCr9eSYog3qTm2uM_KcgzpD@isilo.db.elephantsql.com/kxhonlig",
+            "name": "DVD_MM"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Store1",
+            "connectString": "postgres://jdnknsld:EY2gedWgtXAQPwXXMDAZ_qzkqboc61qa@isilo.db.elephantsql.com/jdnknsld"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Store2",
+            "connectString": "postgres://jiaizvds:zTMl534StHCMD7TqzsVnO918YSPHLSCH@chunee.db.elephantsql.com/jiaizvds"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "in_class_week2_day4",
+            "connectString": "postgres://bmgmbvuu:e6_9NTlNmGlYk6TQYTns6GgiSMCTB-vP@chunee.db.elephantsql.com/bmgmbvuu"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Car_Dealership",
+            "connectString": "postgres://cxchuygj:CaKX1e_O2aE69PJzFNnC_HXGtkaa2yxx@chunee.db.elephantsql.com/cxchuygj"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://nplzlpqa:3zKn5XbMLevxsaAozrq5Pz-gGRerCp5i@chunee.db.elephantsql.com/nplzlpqa",
+            "name": "car dealership2"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://skkmbjqe:hyOmWanbNg2c0XeOHsvrDuVW8H-eaODe@chunee.db.elephantsql.com/skkmbjqe",
+            "name": "Dealership"
+        }
+    ]
+}
